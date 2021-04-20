@@ -5,8 +5,24 @@
   body {
     margin: 0;
     font-family: Arial;
+    background-color: azure;
   }
-  
+  h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: lightblue;
+  }
+  h1:hover {
+    color:rgb(178, 236, 255);
+  }
+  p {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: lightblue;
+  }
+  p:hover {
+    color:rgb(178, 236, 255);
+  }
   .header {
     text-align: center;
     padding: 32px;
